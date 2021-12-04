@@ -1,3 +1,5 @@
+---- By Savrinop
+
 Config = {
     Parachute = {
         Shopping = {
@@ -16,3 +18,5 @@ Config = {
         }    
     },
 }
+
+---- By Savrinop
