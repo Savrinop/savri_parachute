@@ -1,3 +1,5 @@
+---- By Savrinop
+
 ESX = nil 
 
 Citizen.CreateThread(function()
@@ -102,4 +104,4 @@ Citizen.CreateThread(function()
         end 
     end
 end) 
-
+---- By Savrinop
